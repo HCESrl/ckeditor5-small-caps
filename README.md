@@ -12,16 +12,16 @@ npm install --save ckeditor5-small-caps
 import SmallCaps from 'ckeditor5-small-caps/src/small-caps';
 
 ClassicEditor.builtinPlugins = [
-	...,
-	SmallCaps
+  ...,
+  SmallCaps
 ];
 
 ClassicEditor.defaultConfig = {
-	toolbar: {
-		items: [
-            ...
-			'smallCaps'
-		]
-    },
+  toolbar: {
+    items: [
+      ...
+      'smallCaps'
+    ]
+  },
 };
 ```
