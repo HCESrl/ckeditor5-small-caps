@@ -1,0 +1,33 @@
+{
+  "name": "ckeditor5-small-caps",
+  "description": "Small capitals feature for CKEditor 5.",
+  "keywords": [
+    "ckeditor5",
+    "ckeditor5-plugin",
+    "ckeditor5-feature",
+    "ckeditor",
+    "ckeditor 5",
+    "smallcaps",
+    "small-caps"
+  ],
+  "dependencies": {
+    "@ckeditor/ckeditor5-core": ">=10.0.0",
+    "@ckeditor/ckeditor5-engine": ">=10.0.0",
+    "@ckeditor/ckeditor5-ui": ">=10.0.0"
+  },
+  "engines": {
+    "node": ">=6.0.0",
+    "npm": ">=3.0.0"
+  },
+  "bugs":"https://github.com/HCESrl/ckeditor5-small-caps/issues",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/HCESrl/ckeditor5-small-caps.git"
+  },
+  "files": [
+    "src"
+  ],
+  "author": "fsavina <fsavina@hce.it>",
+  "license": "MIT"
+}
