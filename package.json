@@ -20,13 +20,14 @@
     "npm": ">=3.0.0"
   },
   "bugs":"https://github.com/HCESrl/ckeditor5-small-caps/issues",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "repository": {
     "type": "git",
     "url": "https://github.com/HCESrl/ckeditor5-small-caps.git"
   },
   "files": [
-    "src"
+    "src",
+    "theme"
   ],
   "author": "fsavina <fsavina@hce.it>",
   "license": "MIT"
