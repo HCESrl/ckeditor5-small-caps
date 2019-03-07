@@ -9,7 +9,7 @@ npm install --save ckeditor5-small-caps
 ```
 
 ```javascript
-import SmallCaps from 'ckeditor5-small-caps';
+import SmallCaps from 'ckeditor5-small-caps/src/small-caps';
 
 ClassicEditor.builtinPlugins = [
 	...,
